@@ -1,5 +1,5 @@
 # WillBeriies - Учебный проект в Glo Academy
 
-##Библиотеки:
+## Библиотеки:
 - Bootstrap v5
 - Swiper Slider JS
